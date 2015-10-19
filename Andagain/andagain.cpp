@@ -6,6 +6,7 @@ Andagain::Andagain(QWidget *parent)
     ui.setupUi(this);
 }
 
+
 Andagain::~Andagain()
 {
 
